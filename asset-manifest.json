@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sKuangster/website.git/static/css/main.75c2df2f.css",
+    "main.js": "/sKuangster/website.git/static/js/main.01ceb0cc.js",
+    "index.html": "/sKuangster/website.git/index.html",
+    "main.75c2df2f.css.map": "/sKuangster/website.git/static/css/main.75c2df2f.css.map",
+    "main.01ceb0cc.js.map": "/sKuangster/website.git/static/js/main.01ceb0cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c2df2f.css",
+    "static/js/main.01ceb0cc.js"
+  ]
+}
